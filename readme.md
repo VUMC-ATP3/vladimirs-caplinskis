@@ -5,3 +5,5 @@
 ## 200 vārdu apraksts par mani
 Mani sauc Vladimirs.
 un.tp. ................................
+
+Links uz LU [kursu](https://edu.lu.lv/course/index.php?categoryid=271)
